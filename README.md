@@ -1,7 +1,7 @@
 patience_sort
 =============
 
-This is an implementation of sorting an array using Patience Sort. 
+This is a Python implementation of sorting an array using Patience Sort. 
 (https://en.wikipedia.org/wiki/Patience_sorting)
 
 The top cards are maintained as an ordered list. This is used to 
