@@ -14,4 +14,4 @@ Once the piles are created, the top number of each pile is inserted
 into a heap. Iteratively, the minimum element from the heap is removed and 
 a new element from the corresponding pile is inserted into the heap.
 
-The time complexity is O(n \log n) and the space complexity is O(n).
+The time complexity is O(n log n) and the space complexity is O(n).
